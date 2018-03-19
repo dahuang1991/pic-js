@@ -356,7 +356,7 @@ html{
     width: 0.8rem;
 }
 [data-dpr='1'] .textInfo {
-    font-size: 20px;
+    font-size: 18px;
 }
 [data-dpr='3'] .textInfo {
     font-size: 55px;
