@@ -16,7 +16,7 @@ input, button, select, textarea {font-family: inherit; font-size: inherit; line-
 
 /*这一句是用来解决在安卓上的点击出现篮框问题*/
 
-body{ -webkit-tap-highlight-color:rgba(0,0,0,0); background: #fff; width: 100%; height: 100%; overflow-y: auto;}
+body{ -webkit-tap-highlight-color:rgba(0,0,0,0); background: #000000; width: 100%; height: 100%; overflow-y: auto;}
 
 /*下面是解决ios上去除微信点击蓝色边框 */
 a:focus, input:focus, p:focus, div:focus{
