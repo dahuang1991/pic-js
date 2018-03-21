@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="804eb08d-5514-4e54-9a0e-17577ef968e1" name="Default" comment="" />
+    <list default="true" id="804eb08d-5514-4e54-9a0e-17577ef968e1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/makeImg4.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/makeImg3.js" afterPath="$PROJECT_DIR$/js/makeImg3.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +19,8 @@
       <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="228" column="18" lean-forward="true" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
+            <state relative-caret-position="4104">
+              <caret line="228" column="18" lean-forward="false" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -24,8 +29,8 @@
       <file leaf-file-name="makeImg2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/makeImg2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="138" column="36" lean-forward="true" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+            <state relative-caret-position="2484">
+              <caret line="138" column="36" lean-forward="false" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
               <folding>
                 <marker date="1521539070937" expanded="true" signature="7690:7703" ph="..." />
                 <marker date="1521539070937" expanded="true" signature="7856:7869" ph="..." />
@@ -49,23 +54,48 @@
       <file leaf-file-name="makeImg3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/makeImg3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="310" column="58" lean-forward="false" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
               <folding>
-                <marker date="1521539070000" expanded="true" signature="7690:7703" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="7856:7869" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8022:8035" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8188:8201" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8354:8367" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8520:8533" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8686:8699" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="8852:8865" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9018:9031" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9184:9197" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9351:9364" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9518:9531" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9685:9695" ph="..." />
-                <marker date="1521539070000" expanded="true" signature="9846:9856" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="8196:8209" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="8363:8376" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="8530:8543" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="8697:8710" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="8864:8877" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9031:9044" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9198:9211" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9365:9378" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9532:9545" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9699:9712" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="9867:9880" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="10035:10048" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="10203:10213" ph="..." />
+                <marker date="1521611532933" expanded="true" signature="10365:10375" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="makeImg4.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/makeImg4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+              <folding>
+                <marker date="1521611606653" expanded="true" signature="8196:8209" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="8363:8376" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="8530:8543" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="8697:8710" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="8864:8877" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9031:9044" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9198:9211" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9365:9378" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9532:9545" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9699:9712" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="9867:9880" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="10035:10048" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="10203:10213" ph="..." />
+                <marker date="1521611606653" expanded="true" signature="10365:10375" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,7 +104,7 @@
       <file leaf-file-name="makeImg.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/makeImg.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="5472">
               <caret line="304" column="67" lean-forward="false" selection-start-line="304" selection-start-column="67" selection-end-line="304" selection-end-column="67" />
               <folding>
                 <marker date="1521536586320" expanded="true" signature="8012:8025" ph="..." />
@@ -96,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="142" column="64" lean-forward="true" selection-start-line="142" selection-start-column="64" selection-end-line="142" selection-end-column="64" />
+            <state relative-caret-position="782">
+              <caret line="143" column="24" lean-forward="false" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -109,7 +139,7 @@
       <file leaf-file-name="makeImg1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/makeImg1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="2736">
               <caret line="152" column="11" lean-forward="true" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="11" />
               <folding>
                 <marker date="1521538223732" expanded="true" signature="7744:7757" ph="..." />
@@ -159,7 +189,9 @@
         <option value="$PROJECT_DIR$/js/makeImg.js" />
         <option value="$PROJECT_DIR$/js/makeImg1.js" />
         <option value="$PROJECT_DIR$/js/makeImg2.js" />
+        <option value="$PROJECT_DIR$/js/makeImg3.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/makeImg4.js" />
       </list>
     </option>
   </component>
@@ -191,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +244,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -254,28 +286,29 @@
       <updated>1521456909264</updated>
       <workItem from="1521456910408" duration="872000" />
       <workItem from="1521519762825" duration="16000" />
-      <workItem from="1521536410887" duration="3329000" />
+      <workItem from="1521536410887" duration="4235000" />
+      <workItem from="1521611238323" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4217000" />
+    <option name="totallyTimeSpent" value="5493000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2550586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25772098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5020877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -298,6 +331,122 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="228" column="18" lean-forward="true" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/makeImg2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="138" column="36" lean-forward="true" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+          <folding>
+            <marker date="1521539070937" expanded="true" signature="7690:7703" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="7856:7869" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8022:8035" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8188:8201" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8354:8367" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8520:8533" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8686:8699" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="8852:8865" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9018:9031" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9184:9197" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9351:9364" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9518:9531" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9685:9695" ph="..." />
+            <marker date="1521539070937" expanded="true" signature="9846:9856" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/makeImg3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521611532933" expanded="true" signature="8196:8209" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8363:8376" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8530:8543" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8697:8710" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8864:8877" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9031:9044" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9198:9211" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9365:9378" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9532:9545" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9699:9712" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9867:9880" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10035:10048" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10203:10213" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10365:10375" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/makeImg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5472">
+          <caret line="304" column="67" lean-forward="false" selection-start-line="304" selection-start-column="67" selection-end-line="304" selection-end-column="67" />
+          <folding>
+            <marker date="1521536586320" expanded="true" signature="8012:8025" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="8178:8191" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="8344:8357" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="8510:8523" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="8676:8689" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="8842:8855" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9008:9021" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9174:9187" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9340:9353" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9506:9519" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9673:9686" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="9840:9853" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="10007:10017" ph="..." />
+            <marker date="1521536586320" expanded="true" signature="10168:10178" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/makeImg1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="152" column="11" lean-forward="true" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="11" />
+          <folding>
+            <marker date="1521538223732" expanded="true" signature="7744:7757" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="7910:7923" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8076:8089" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8242:8255" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8408:8421" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8574:8587" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8740:8753" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="8906:8919" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9072:9085" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9238:9251" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9405:9418" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9572:9585" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9739:9749" ph="..." />
+            <marker date="1521538223732" expanded="true" signature="9900:9910" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="64" lean-forward="true" selection-start-line="142" selection-start-column="64" selection-end-line="142" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -360,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/makeImg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="5472">
           <caret line="304" column="67" lean-forward="false" selection-start-line="304" selection-start-column="67" selection-end-line="304" selection-end-column="67" />
           <folding>
             <marker date="1521536586320" expanded="true" signature="8012:8025" ph="..." />
@@ -391,7 +540,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/makeImg1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="2736">
           <caret line="152" column="11" lean-forward="true" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="11" />
           <folding>
             <marker date="1521538223732" expanded="true" signature="7744:7757" ph="..." />
@@ -414,16 +563,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="228" column="18" lean-forward="true" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
+        <state relative-caret-position="4104">
+          <caret line="228" column="18" lean-forward="false" selection-start-line="228" selection-start-column="18" selection-end-line="228" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/makeImg2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="138" column="36" lean-forward="true" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+        <state relative-caret-position="2484">
+          <caret line="138" column="36" lean-forward="false" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
           <folding>
             <marker date="1521539070937" expanded="true" signature="7690:7703" ph="..." />
             <marker date="1521539070937" expanded="true" signature="7856:7869" ph="..." />
@@ -445,32 +594,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/makeImg3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="612">
+          <caret line="310" column="58" lean-forward="false" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
           <folding>
-            <marker date="1521539070000" expanded="true" signature="7690:7703" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="7856:7869" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8022:8035" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8188:8201" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8354:8367" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8520:8533" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8686:8699" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="8852:8865" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9018:9031" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9184:9197" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9351:9364" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9518:9531" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9685:9695" ph="..." />
-            <marker date="1521539070000" expanded="true" signature="9846:9856" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8196:8209" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8363:8376" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8530:8543" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8697:8710" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="8864:8877" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9031:9044" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9198:9211" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9365:9378" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9532:9545" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9699:9712" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="9867:9880" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10035:10048" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10203:10213" ph="..." />
+            <marker date="1521611532933" expanded="true" signature="10365:10375" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="142" column="64" lean-forward="true" selection-start-line="142" selection-start-column="64" selection-end-line="142" selection-end-column="64" />
+        <state relative-caret-position="782">
+          <caret line="143" column="24" lean-forward="false" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/makeImg4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+          <folding>
+            <marker date="1521611606653" expanded="true" signature="8196:8209" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="8363:8376" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="8530:8543" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="8697:8710" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="8864:8877" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9031:9044" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9198:9211" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9365:9378" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9532:9545" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9699:9712" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="9867:9880" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="10035:10048" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="10203:10213" ph="..." />
+            <marker date="1521611606653" expanded="true" signature="10365:10375" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

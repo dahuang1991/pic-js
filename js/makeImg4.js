@@ -302,13 +302,12 @@ function zzd(obj, parent) {
         if (oLeft < 0) {
             oLeft = 0;
         } else if (oLeft > oparent.offsetWidth - block.offsetWidth) {
-            oLeft = (oparent.offsetHeight - block.offsetWidth);
+            oLeft = (oparent.offsetWidth - block.offsetWidth);
         } else if (oTop < 0) {
             oTop = 0;
         } else if (oTop > oparent.offsetHeight - block.offsetHeight) {
             oTop = (oparent.offsetHeight - block.offsetHeight);
         }
-        oLeft = (oparent.offsetWidth - block.offsetWidth);
         block.style.left = oLeft + "px";
         block.style.top = oTop + "px";
     }, false);
