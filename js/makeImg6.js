@@ -48,7 +48,7 @@ $("#imgloader input").change(function(event){
                             break;
                     }
                 }
-              }else{
+              }else{ 
 
                   $("#myImg").prepend("<img src='"+$(this).attr('src')+"'>");
               }
