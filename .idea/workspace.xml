@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="804eb08d-5514-4e54-9a0e-17577ef968e1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/css3.css" />
+      <change beforePath="$PROJECT_DIR$/css/css2.css" afterPath="$PROJECT_DIR$/css/css2.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="makeImg2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/makeImg2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2484">
-              <caret line="138" column="36" lean-forward="false" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
-              <folding>
-                <marker date="1521539070937" expanded="true" signature="7690:7703" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="7856:7869" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8022:8035" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8188:8201" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8354:8367" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8520:8533" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8686:8699" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="8852:8865" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9018:9031" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9184:9197" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9351:9364" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9518:9531" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9685:9695" ph="..." />
-                <marker date="1521539070937" expanded="true" signature="9846:9856" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="makeImg3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/makeImg3.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,6 +99,16 @@
       </file>
       <file leaf-file-name="css2.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/css2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css3.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css3.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -227,6 +214,7 @@
         <option value="$PROJECT_DIR$/js/makeImg4.js" />
         <option value="$PROJECT_DIR$/js/makeImg5.js" />
         <option value="$PROJECT_DIR$/css/css1.css" />
+        <option value="$PROJECT_DIR$/css/css2.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -333,12 +321,12 @@
       <workItem from="1521519762825" duration="16000" />
       <workItem from="1521536410887" duration="4235000" />
       <workItem from="1521611238323" duration="6036000" />
-      <workItem from="1521795185222" duration="334000" />
+      <workItem from="1521795185222" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11493000" />
+    <option name="totallyTimeSpent" value="11541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -857,6 +845,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/css2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
