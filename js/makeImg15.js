@@ -364,7 +364,7 @@ function makeImg(){
         $(".shadeBox").fadeOut();
         $("#myImg").html(
             "<img class='photo' src='"+canvasUrl+"' >"+
-            "<div class='textInfo'>长按图片保存到手机，把它分享到朋友圈吧～</div>"
+            "<div class='textInfo'>长按图片保存并分享给你的好友吧</div>"
         );
         // $.ajax({
         //     url:http_url+'save_img_end',

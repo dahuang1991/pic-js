@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="804eb08d-5514-4e54-9a0e-17577ef968e1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/makeImg15.js" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/makeImg14.js" afterPath="$PROJECT_DIR$/js/makeImg14.js" />
+      <change beforePath="$PROJECT_DIR$/js/makeImg15.js" afterPath="$PROJECT_DIR$/js/makeImg15.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="143" column="25" lean-forward="false" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
+            <state relative-caret-position="540">
+              <caret line="120" column="14" lean-forward="false" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -162,12 +160,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="makeImg15.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="makeImg15.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/makeImg15.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="366" column="50" lean-forward="false" selection-start-line="366" selection-start-column="50" selection-end-line="366" selection-end-column="50" />
+              <folding>
+                <marker date="1522035279152" expanded="true" signature="8925:8938" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9091:9104" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9257:9270" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9423:9436" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9589:9602" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9755:9768" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="9921:9934" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10087:10100" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10253:10266" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10419:10432" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10586:10599" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10753:10766" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="10920:10930" ph="..." />
+                <marker date="1522035279152" expanded="true" signature="11081:11091" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -248,6 +261,7 @@
         <option value="$PROJECT_DIR$/js/makeImg13.js" />
         <option value="$PROJECT_DIR$/js/makeImg14.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/makeImg15.js" />
       </list>
     </option>
   </component>
@@ -356,12 +370,12 @@
       <workItem from="1521611238323" duration="6036000" />
       <workItem from="1521795185222" duration="4290000" />
       <workItem from="1521870495005" duration="2628000" />
-      <workItem from="1522029757424" duration="277000" />
+      <workItem from="1522029757424" duration="2690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18354000" />
+    <option name="totallyTimeSpent" value="20767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
@@ -789,19 +803,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/makeImg15.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="120" column="14" lean-forward="false" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/makeImg15.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="143" column="25" lean-forward="false" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="366" column="50" lean-forward="false" selection-start-line="366" selection-start-column="50" selection-end-line="366" selection-end-column="50" />
+          <folding>
+            <marker date="1522035279152" expanded="true" signature="8925:8938" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9091:9104" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9257:9270" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9423:9436" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9589:9602" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9755:9768" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="9921:9934" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10087:10100" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10253:10266" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10419:10432" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10586:10599" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10753:10766" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="10920:10930" ph="..." />
+            <marker date="1522035279152" expanded="true" signature="11081:11091" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
