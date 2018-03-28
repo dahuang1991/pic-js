@@ -59,7 +59,7 @@ $("#imgloader input").change(function(event){
             $(".imgContent").fadeOut();
             window.setTimeout(function(){
                 $(".saveImg").show();
-                $("#myImg").fadeIn().css('height',$("canvas").height());
+                $("#myImg").fadeIn()//.css('height',$("canvas").height());
                 $("body").removeClass("bgImg").css('background',' url("../img/pc-2.jpg")');
                 $(".tagImg").show();
 
