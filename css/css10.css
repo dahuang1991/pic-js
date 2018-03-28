@@ -413,3 +413,17 @@ html{
     width: 4rem;
     z-index: 667;
 }
+
+
+.zImgInfo{
+    width: 100%;
+    background: #fff;
+    padding: 0.5rem;
+}
+.urlimg{
+    width: 1.7rem;
+}
+.zlogo{
+    width: 3.8rem;
+    margin-top: 0.36rem;
+}
