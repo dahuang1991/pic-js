@@ -370,6 +370,8 @@ function makeImg(){
                 "<img class='photo' src='" + canvasUrl + "' >" +
                 "<div class='textInfo'>长按图片保存并分享给你的好友吧</div>"
             );
+            $(".saveImg").show();
+
             // $.ajax({
             //     url:http_url+'save_img_end',
             //     type: 'POST',
@@ -430,7 +432,8 @@ function rotateImg(img,owidth,direction,canvas) {
     var ctx = canvas.getContext('2d');
     switch (step) {
         case 0:
-            canvas.width = width;
+            canvas.width = width;                $(".saveImg").show();
+
             canvas.height = height;
             ctx.drawImage(img, 0, 0);
             break;
