@@ -1,0 +1,429 @@
+*{margin:0; padding:0; box-sizing: border-box;}
+body{font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;background: #000000;}
+/*"Helvetica Neue",Helvetica,Arial,'Microsoft YaHei',sans-serif*/
+body,ul,ol,li,p,button,form{margin:0;padding:0;list-style: none;}
+a{color: #fff;text-decoration: none;cursor: pointer;}
+a:hover, a:active{text-decoration: none;}
+h1, h2, h3, h4, h5, h6{font-weight: 500; line-height: 1.1; margin: 0; padding:0;}
+textarea{resize:none;}
+a,input,button,select,textarea{outline: none;}
+input[type="text"], input[type="password"], input[type="tel"],input[type="number"], textarea{
+    -webkit-appearance:none; border: none;
+}
+img{vertical-align: middle; border: none; max-width: 100%;}
+button{border: none;}
+input, button, select, textarea {font-family: inherit; font-size: inherit; line-height: inherit;}
+
+/*这一句是用来解决在安卓上的点击出现篮框问题*/
+
+body{ -webkit-tap-highlight-color:rgba(0,0,0,0); background: #000000; width: auto; height: 100%; overflow-y: auto;  overflow-x: auto; }
+
+/*下面是解决ios上去除微信点击蓝色边框 */
+a:focus, input:focus, p:focus, div:focus{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+.inblock{display: inline-block;}
+.overf-h{overflow: hidden;}
+.real{position: relative;}
+.absol{position: absolute;}
+.right{float: right;}
+.left{float: left;}
+.hzero{display:block;width: 100%; height: 0; padding: 0 0.2rem;}
+.Mapimg{display:block;width: 100%; height: 6.36rem; padding: 0 0.2rem;}
+.wimg{width: 100%; height: auto;}
+.flexw{
+    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex;
+    -webkit-justify-content:space-between;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.flexwC{
+    -webkit-justify-content:center;
+    justify-content: center;
+}
+.flexwS{
+    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Chrome */
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.transte{
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s;
+}
+[data-dpr='1'] .shadeBox{
+    font-size: 16px;
+}
+[data-dpr='3'] .shadeBox{
+    font-size: 48px;
+}
+.shadeBox{
+    display: none;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.34);
+    z-index: 800;
+    text-align: center;
+    font-size: 28px;
+    color: #fff;
+}
+.shadeBox img{
+    margin: 60% auto;
+    margin-bottom: 0;
+    width: 2rem;
+}
+html{
+    width: 100%; height: 100%;
+    background: #000;
+}
+.bgImg{
+    background: url("../img/pc-long.jpg") ;
+    background-size: 100% auto;
+    background-position: top left;
+}
+.header{
+    width: 100%;
+    height: 0.7rem;
+}
+.content{
+    text-align: center;
+    padding-bottom: 4.5rem;
+}
+.imgContent{
+    width: 100%;
+    left: 0;
+    bottom: 1.3rem;
+    text-align: center;
+}
+.imgbg{
+    width: 1.706rem;
+}
+[data-dpr='1'] .explain{
+    font-size: 14px;
+}
+[data-dpr='3'] .explain{
+    font-size: 46px;
+}
+.explain{
+    font-size: 26px;
+    color: #f0ffff;
+}
+
+.putnone{
+    top: 0;
+    left: 50%;
+    margin-left: -17%;
+    width: 35%;
+    height: 100%;
+    z-index: 66;
+    opacity: 0;
+}
+#myImg{
+    display: none;
+    width: 100%;
+    height: auto;
+}
+.photo{
+    width: 100%;
+    height: auto;
+}
+[data-dpr='1'] .tagImg {
+    font-size: 14px;
+}
+[data-dpr='3'] .tagImg {
+    font-size: 46px;
+}
+.tagImg{
+    display: none;
+    position: fixed;
+    bottom: 0.5rem;
+    left: 0;
+    width: 100%;
+    max-height:4.4rem;
+    text-align: center;
+    color: #000;
+    font-size: 26px;
+    z-index: 668;
+
+}
+.flexLay{
+    display: flex;
+    display: -webkit-box;  /* 老版本语法: Safari, iOS, Android browser, older WebKit browsers. */
+    display: -moz-box;     /* 老版本语法: Firefox (buggy) */
+    display: -ms-flexbox;  /* 混合版本语法: IE 10 */
+    display: -webkit-flex; /* 新版本语法: Chrome 21+ */
+}
+.tagType{
+    flex:1;
+    -webkit-box-flex: 1;   /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 1;     /* OLD - Firefox 19- */
+    -webkit-flex: 1;      /* Chrome */
+    -ms-flex: 1;           /* IE 10 */
+    border: 1px solid #f0ffff;
+    padding: 0.28rem;
+    border-radius: 8px;
+    font-weight: 600;
+    background: rgba(83,83,83,.57);
+}
+.typeBox{
+    width: 100%;
+    margin-top: 0.2rem;
+    background: rgba(125,125,125,.8);
+    overflow-x: auto;
+}
+.borderColor{
+    border-color: #fff401;
+}
+.shadeImg{
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+}
+.typeltem{
+    display: flex;
+    display: -webkit-box;  /* 老版本语法: Safari, iOS, Android browser, older WebKit browsers. */
+    display: -moz-box;     /* 老版本语法: Firefox (buggy) */
+    display: -ms-flexbox;  /* 混合版本语法: IE 10 */
+    display: -webkit-flex;
+    padding: 0;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+}
+.filter div{
+    flex: 1;
+    -webkit-box-flex: 1;   /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 1;     /* OLD - Firefox 19- */
+    -webkit-flex: 1;      /* Chrome */
+    -ms-flex: 1;          /* IE 10 */
+    margin-right: 0.3rem;
+    width: 1rem;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.typeltem div:last-child{
+    margin-right: 0;
+}
+.typeltem .check{
+    border: 2px solid #e3f51b;
+}
+.filter div img,.paper div img{
+    width: 100%;
+}
+.showHeight{
+    height: auto;
+    padding: 0.3rem;
+}
+.paper{
+    min-width: 260%;
+}
+.paper div{
+    flex: 1;
+    -webkit-box-flex: 1;   /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 1;     /* OLD - Firefox 19- */
+    -webkit-flex: 1;      /* Chrome */
+    -ms-flex: 1;           /* IE 10 */
+    width: 1rem;
+    margin-right: 0.3rem;
+    border: 1px solid #eee;
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.paper .textWidth{
+    flex: 3;
+    -webkit-box-flex: 3;   /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 3;     /* OLD - Firefox 19- */
+    -webkit-flex: 3;      /* Chrome */
+    -ms-flex: 3;           /* IE 10 */
+}
+.opaperImg{
+    display: inline-block;
+    top: 30%;
+    left: 30%;
+    margin: auto;
+    z-index: 88;
+}
+.opaperText{
+    left: 0;
+}
+.opaperImg .tpaper{
+    width: 1.3rem;
+}
+.opaperImg .mpaper{
+    width: 2.3rem;
+}
+.opaperImg .stpaper{
+    width: 3rem;
+}
+.opaperImg .bigpaper{
+    width: 7rem;
+}
+
+.closeImg,.closeText{
+    display: none;
+    top: -0.3rem;
+    right: -0.3rem;
+    width: 0.7rem;
+}
+.opaperImgCheck .closeImg,.opaperImgCheck .closeText{
+    display: block;
+}
+[data-dpr='1'] .oinput {
+    font-size: 17px;
+}
+[data-dpr='3'] .oinput {
+    font-size: 56px;
+}
+.oinput{
+    font-size: 36px;
+    padding: 0.1rem;
+    width: 5.6rem;
+    height: 0.78rem;
+    line-height: 0.6rem;
+    margin-bottom: 0.4rem;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.textColor{
+    display: flex;
+    display: -webkit-box;  /* 老版本语法: Safari, iOS, Android browser, older WebKit browsers. */
+    display: -moz-box;     /* 老版本语法: Firefox (buggy) */
+    display: -ms-flexbox;  /* 混合版本语法: IE 10 */
+    display: -webkit-flex; /* 新版本语法: Chrome 21+ */
+    width: 100%;
+}
+.textColor p{
+    flex: 1;
+    -webkit-box-flex: 1;   /* OLD - iOS 6-, Safari 3.1-6 */
+    -moz-box-flex: 1;     /* OLD - Firefox 19- */
+    -webkit-flex: 1;      /* Chrome */
+    -ms-flex: 1;           /* IE 10 */
+    height: 1rem;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.tybtn{
+    width: 1.8rem;
+    height: 0.78rem;
+    padding: 0.1rem;
+    border: 1px solid #fff;
+    color: #000;
+    border-radius: 7%;
+    overflow: hidden;
+}
+.btnClick{ color:#fff; border: 1px solid #fff;}
+.tybtn:first-child{
+    margin-left: 0.3rem;
+}
+
+.acol{ background: #f9ea40;}
+.bcol{ background: #bfd970;}
+.ccol{ background: #91c976;}
+.dcol{ background: #78b4b0;}
+.ecol{ background: #75d1ec;}
+.fcol{ background: #18ace2;}
+
+.gcol{ background: #816cb1;}
+.hcol{ background: #b86fb2;}
+.icol{ background: #f27db0;}
+.jcol{ background: #de2790;}
+.kcol{ background: #f6822d;}
+.lcol{ background: #fbb131;}
+.mcol{ background: #fff;}
+.ncol{ background: #000;}
+
+[data-dpr='1'] .textPaper {
+    font-size: 26px;
+}
+[data-dpr='3'] .textPaper {
+    font-size: 86px;
+}
+.textPaper{
+    top: 30%;
+    left: 0.5rem;
+    margin: auto;
+    z-index: 88;
+    font-size: 66px;
+}
+.opaperImgCheck{
+    z-index: 188;
+    border: 1px dashed #070707;
+}
+
+.textColor .checkP{
+    border: 2px solid #e3f51b;
+}
+[data-dpr='1'] .saveImg {
+    font-size: 16px;
+}
+[data-dpr='3'] .saveImg {
+    font-size: 46px;
+}
+.saveImg{
+    display: none;
+    position: fixed;
+    top: 0.3rem;
+    right: 0.3rem;
+    z-index: 566;
+}
+.saveImg img{
+    width: 0.8rem;
+}
+[data-dpr='1'] .textInfo {
+    font-size: 18px;
+}
+[data-dpr='3'] .textInfo {
+    font-size: 55px;
+}
+.textInfo{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 0.2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 35px;
+    font-weight: 600;
+    z-index: 566;
+    background: rgba(0,0,0,.4);
+}
+.logo_img{
+    bottom: 0.1rem;
+    right: 0.1rem;
+    width: 4rem;
+    z-index: 667;
+}
+
+
+.zImgInfo{
+    width: 100%;
+    background: #fff;
+    padding: 0.5rem;
+}
+.urlimg{
+    width: 1.7rem;
+}
+.zlogo{
+    width: 3.8rem;
+    margin-top: 0.36rem;
+}
